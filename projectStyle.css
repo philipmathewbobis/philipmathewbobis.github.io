@@ -139,6 +139,7 @@ label{
         display: none;
     }
     label{
+        color: #CCCCCC;
         display: block;
         font-size: 25px;
         cursor: pointer;
